@@ -1,3 +1,17 @@
+----------- Ver 1.1.2 -----------
+- You can no longer pick up fuses before turning on the generator.
+- Added some translations in Toys.
+- Made the collider of the systems lever in Cursed bigger.
+- Increased Freddy's music box crank speed while interacting.
+- Changed Ennard's text in the Game Over screen to explain untold mechanics.
+- Time in "Lord Of Stamina" achievement decreased.
+- Fixed error that makes the speaker in Cursed talk after completing the level.
+- Made magnetization decrease faster.
+- Added panels to the doors in Cursed to tell if they have been destroyed.
+- Made Funtime Freddy get angry faster.
+- Fixed text in Basement.
+
+
 ----------- Ver 1.1.1 -----------
 - Fix error that doesn't let you leave the projector.
 
