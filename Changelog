@@ -1,3 +1,13 @@
+----------- Ver 1.1.3 -----------
+- Fixed error that makes items bounce when dropping them.
+- Changed Pause Menu.
+- Added lights to the Cryptex Box in Back Alley to make it more visible.
+- Changed Afton's text in the Game Over screen.
+- Made the broken glass texture in Ennard's cutscene more visible.
+- Changed the position of some gears in Toys to make them more visible.
+- Made Phantom Foxy's visual boxes even smaller.
+
+
 ----------- Ver 1.1.2 -----------
 - You can no longer pick up fuses before turning on the generator.
 - Added some translations in Toys.
