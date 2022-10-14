@@ -1,3 +1,15 @@
+----------- Ver 1.1.5 -----------
+- Dreadbear fixed.
+- Funtime Freddy fixed.
+- Withered Freddy trigger fixed.
+- Fixed error with the golden suit head.
+- Fixed error that makes fuses spawn out of the box.
+- Lighting improved in the Intro Cutscene and Credits.
+- Added stars in the Main Menu for the ones who complete "The Full Experience" achievement.
+- Fixed bin collider in Cursed.
+- Added light to the secret button in Funtimes.
+
+
 ----------- Ver 1.1.4 -----------
 - Added tips in the loading screen to explain better some mechanics.
 - Fixed error that let you see the flashlight when it's turned off.
