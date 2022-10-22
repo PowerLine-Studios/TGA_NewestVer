@@ -13,7 +13,7 @@
 ----------- Ver 1.1.5 -----------
 - Dreadbear fixed.
 - Funtime Freddy fixed.
-- Withered Freddy trigger fixed.
+- Withered Freddy's trigger fixed.
 - Fixed error with the golden suit head.
 - Fixed error that makes fuses spawn out of the box.
 - Lighting improved in the Intro Cutscene and Credits.
@@ -23,11 +23,11 @@
 
 
 ----------- Ver 1.1.4 -----------
-- Added tips in the loading screen to explain better some mechanics.
+- Added tips in the loading screen to explain some mechanics better.
 - Fixed error that let you see the flashlight when it's turned off.
 - Fixed error that doesn't let the game set the background correctly.
 - Added better lighting to Basement background.
-- Made coin in Back Alley more visible.
+- Made the coin in Back Alley more visible.
 - Fixed text in tape.
 - Fixed text in Basement.
 - Fixed texts in Extras.
@@ -79,7 +79,7 @@
 - Changed Music Man's timer.
 - Changed time in "Lord of Stamina" achievement.
 - Fixed error that can't let you resume the game when leaving a screen while the game's paused.
-- Fixed error when Shock Gun doesn't shock Funtime Foxy.
+- Fixed error where Shock Gun doesn't shock Funtime Foxy.
 - Fixed Funtime Foxy's chase animation when she is angry.
 - Patreon Donors Wall updated.
 
@@ -98,7 +98,7 @@
 - Default Screen Size set to 1080p instead of 4k.
 - Fixed some texts in the Tip Manager introduction.
 - Mangle fixed and nerfed.
-- Mangle's vent sounds increased.
+- Mangle's vent sounds volume increased.
 - Withered Freddy nerfed.
 - Freddy's music box volume decreased.
 - Changed the position of the gear that appears next to Freddy's music box.
@@ -115,8 +115,8 @@
 - Changed text about the hallucinations in Cursed.
 - Changed speaker's source in Cursed.
 - Ballora nerfed.
-- Fixed error where Ballora obstructs the exit when complete Funtimes.
-- Made Funtime Foxy's AI malfunction sound less frequent.
+- Fixed error where Ballora obstructs the exit when Funtimes was completed.
+- Made Funtime Foxy's AI malfunction sound less frequently.
 - Ennard nerfed.
 - Fixed text on the panel in Lost Media.
 - Fixed error when the cursor appears when interacting with the pieces of paper in Back Alley.
