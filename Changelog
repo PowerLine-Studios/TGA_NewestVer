@@ -1,3 +1,25 @@
+----------- Ver 1.1.8 -----------
+- Added minor optimization.
+- Changed Ennard's chasing time from 4.5sec to 4sec.
+- Changed Ennard's vision range from 15m to 12.5m.
+- Added a new tip for Lost Media in the loading screen.
+- Updated the Focus system.
+- Made vent doors keep open while Molten Freddy is in the vent to avoid confusion.
+- Made Scrap Baby appears nearer to avoid confusion.
+- Starting a new game no longer restarts Replay Levels & Backgrounds.
+- You can now get part of the 'Headache' achievement even skipping the Basement cutscene.
+- The game no longer saves your progress in Vents.
+- Fixed error that makes the Pause Menu appears between transitions in cinematics for a few frames.
+- Fixed Funtime Freddy's head rotation when is deactivated.
+- Fixed error that makes you can't put off the golden suit in Nightmares.
+- Made the CPU input more visible in Funtimes.
+- Enlarged the correct positions of the pieces of paper in Back Alley.
+- Made the motion detector in Back Alley sound louder.
+- Reduced Music Man's timer.
+- Changed and fixed several texts.
+- Patreon Donors Wall updated.
+
+
 ----------- Ver 1.1.7 -----------
 - Ennard nerfed.
 - 'Headache' achievement changed for a better understanding.
