@@ -1,3 +1,41 @@
+----------- Ver 2.0 -----------
+- Added Controller Support.
+- Added Discord Integration.
+- Added new Easter Eggs.
+- Added player step sounds.
+- Increased the size of some interaction hitboxes to make interaction easier.
+- Fixed an issue where the game registers key-pressing wrong on some keyboards.
+- Added maps in Lost Media to avoid confusion.
+- Added tops to the fuses boxes before you can use them to avoid confusion.
+- Added animations to the Game Over screens and Extras.
+- Changed Flashlight position on the screen.
+- Welcome Bot, Cursed cutscene, and Elevator cutscene are now skippable.
+- Toy Chica will now face the opposite direction to you when you start Toys with the checkpoint.
+- You can now take the items for the characters before talking to them in the Cursed arcade.
+- Springtrap's and Dreadbear's AI slightly changed.
+- Ennard has a more sensitive ear for the Rechargeable Flashlight.
+- Added spinning icon in Loading Screens.
+- Papers no longer get blurry when playing at low resolution.
+- Fixed blood texture when playing at low resolution.
+- Fixed lighting in the end cutscene when playing with no shadows.
+- Updated the fire in Cursed.
+- Changed the Generator Room in Lost Media.
+- Slightly changed Funtimes decoration.
+- Redecorated Accident.
+- Changed and added some lights in Lost Media.
+- Changed some lights in Back Alley.
+- Changed Cursed completion achievement name.
+- The door at the Lobby vent is now open at the beginning.
+- Removed one of the possible positions of the code in Cursed to avoid confusion.
+- Updated Insanity images.
+- Keys in Nightmares no longer have light.
+- Updated Ennard's wires texture.
+- Added light to Ennard's main eye.
+- Changed Nightmare Balloon Boy's eyes texture.
+- Updated Credits.
+- Minor changes and fixing.
+
+
 ----------- Ver 1.1.8 -----------
 - Added minor optimization.
 - Changed Ennard's chasing time from 4.5sec to 4sec.
