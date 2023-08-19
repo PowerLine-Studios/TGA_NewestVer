@@ -1,3 +1,9 @@
+----------- Ver 2.0.1 -----------
+- Fixed issue where game progress was deleted when updating the game.
+- Fixed issue where sometimes you can't drop items.
+- Fixed issues with Controller Support.
+
+
 ----------- Ver 2.0 -----------
 - Added Controller Support.
 - Added Discord Integration.
